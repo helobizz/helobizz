@@ -120,12 +120,10 @@ STATUS: ONLINE
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center">   
+<img height="170" src="https://raw.githubusercontent.com/helobizz/helobizz/main/profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=helobizz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C83FF&ring_color=7C83FF&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helobizz&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C83FF"/>
-
+<img height="170" src="https://raw.githubusercontent.com/helobizz/helobizz/main/profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
 ---
