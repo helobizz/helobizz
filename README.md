@@ -1,16 +1,182 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**helobizz/helobizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:4F8CFF,100:A78BFA&text=HELOÍSA%20VALE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=9AA8FF&center=true&vCenter=true&width=850&lines=DESENVOLVIMENTO+DE+SOFTWARE;ANÁLISE+DE+DADOS;PYTHON+%7C+SQL+%7C+JAVASCRIPT;APRENDENDO+%7C+CONSTRUINDO+%7C+EVOLUINDO" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+💻 **Desenvolvimento de Software** &nbsp; • &nbsp; 📊 **Análise de Dados**
+
+</div>
+
+<br>
+
+## 👋 Oi! Eu sou a Heloísa
+
+Minha trajetória na tecnologia começou pela curiosidade de entender **como as coisas funcionam** e, desde então, venho explorando diferentes áreas do desenvolvimento de software e dados.
+
+Atualmente, tenho direcionado cada vez mais meus estudos para **Análise de Dados**, especialmente pela possibilidade de organizar informações, encontrar padrões e transformar dados em algo que possa ajudar na tomada de decisões.
+
+Também continuo desenvolvendo meus conhecimentos em **desenvolvimento de software**, criando projetos e colocando em prática o que aprendo.
+
+> 🌱 Aprendendo na prática, um projeto e um `commit` de cada vez.
+
+---
+
+## 🧠 Heloísa.exe
+
+<pre>
+heloisa = {
+    "foco": [
+        "Desenvolvimento de Software",
+        "Análise de Dados"
+    ],
+
+    "estudando": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Estatística",
+        "Matplotlib"
+    ],
+
+    "desenvolvendo_com": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "APIs",
+        "Bancos de Dados"
+    ],
+
+    "ferramentas": [
+        "Git",
+        "GitHub",
+        "Figma",
+        "VS Code"
+    ],
+
+    "status": "sempre aprendendo 🚀"
+}
+</pre>
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github&perline=9"/>
+
+</div>
+
+### 📊 Dados & Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb&perline=6"/>
+
+</div>
+
+<div align="center">
+
+`Pandas` &nbsp; `Matplotlib` &nbsp; `SQL` &nbsp; `Estatística`
+
+</div>
+
+---
+
+## 🤖 HELOÍSA SYSTEM
+
+<pre>
+╭──────────────────────────────────────────╮
+│             HELOÍSA SYSTEM               │
+│                 v1.0                     │
+╰──────────────────────────────────────────╯
+
+> Inicializando...
+
+[████████████████████] 100%
+
+✔ Desenvolvimento carregado
+✔ Python carregado
+✔ SQL carregado
+✔ JavaScript carregado
+✔ Curiosidade carregada
+✔ Café virtual carregado ☕
+
+STATUS: ONLINE
+
+> Próximo objetivo:
+> aprender algo novo e colocar em prática.
+</pre>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=helobizz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C83FF&ring_color=7C83FF&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helobizz&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C83FF"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/helobizz/helobizz/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🌱 Em construção...
+
+<pre>
+Desenvolvimento de Software
+        +
+   Análise de Dados
+        +
+     Curiosidade
+        +
+     Café ☕
+        ↓
+   próxima versão...
+</pre>
+
+---
+
+## 📫 Bora conversar?
+
+<div align="center">
+
+<a href="https://github.com/helobizz">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/heloisa-vale/">
+<img src="https://img.shields.io/badge/LinkedIn-4F8CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙💜 aprendendo, construindo e evoluindo.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:4F8CFF,100:A78BFA"/>
