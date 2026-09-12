@@ -132,8 +132,6 @@ STATUS: ONLINE
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/helobizz/helobizz/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </div>
